@@ -1,1 +1,1 @@
-{"application": "slm-grant-browser-demo", "version": 2, "mode": "visual-preview"}
+{"application": "slm-grant-browser-demo", "version": 2, "runtime": "pyodide", "catalogue_version": "b407b0216544d5a838f11b34951ebeeca64d744772ae02101646327de4c0ee9b", "shared_prototype_key": true}
